@@ -41,7 +41,7 @@ simple-websocket==1.0.0
 werkzeug==3.0.6
     # via flask
 wsproto==1.2.0
-    # via simple-websocket
+
 wtforms==3.1.2
     # via flask-wtf
 eventlet
